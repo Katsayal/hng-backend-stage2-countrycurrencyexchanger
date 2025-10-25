@@ -9,15 +9,14 @@ A RESTful FastAPI application that fetches country data, computes estimated GDP,
 - Delete and query individual countries
 - Persistent MySQL storage
 
-## ⚙️ Setup
 
-### 1. Clone Repo
+## 1. Clone Repo
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/Katsayal/hng-backend-stage2-countrycurrencyexchanger.git
 cd countrycurrencyexchanger
 ````
 
-### 2. Setup Environment
+## 2. Setup Environment
 
 Create `.env` file:
 
